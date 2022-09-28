@@ -6,3 +6,5 @@ Aplicação é uma página sobre um produto (Google Glass) contendo seções de 
 
 - Desenvolvido com HTML5, CSS3 e JavaScript.
 
+https://curso-html5-8155.vercel.app/
+
